@@ -1,0 +1,7 @@
+2025-10-05 23:00:01,669 - INFO - Mulai menjalankan etl-tanggal.py
+2025-10-05 23:00:02,052 - INFO - Berhasil menjalankan etl-tanggal.py
+2025-10-05 23:00:02,052 - INFO - Mulai menjalankan etl-sep.py
+2025-10-05 23:00:02,388 - INFO - Berhasil menjalankan etl-sep.py
+2025-10-05 23:00:02,388 - INFO - Mulai menjalankan etl-antrean-per-tanggal.py
+2025-10-05 23:00:14,056 - INFO - Berhasil menjalankan etl-antrean-per-tanggal.py
+2025-10-05 23:00:14,056 - INFO - Semua ETL selesai dijalankan.
